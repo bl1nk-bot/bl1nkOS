@@ -1,3 +1,8 @@
+---
+name: add-tool
+description:
+---
+
 # 🛠️ เพิ่มเครื่องมือ AI (Add AI Tool) - BL1NK Edition
 
 คู่มือสำหรับการเพิ่ม AI SDK tool ใหม่ลงในแพ็กเกจ `@bl1nk/agent`
