@@ -51,7 +51,7 @@
   "devDependencies": {
     "@types/node": "^25.2.2",
     "eslint": "^10.0.0",
-    "next": "15.5.14",
+    "next": "15.5.18",
     "tsdown": "^0.20.3",
     "typescript": "^5.9.3"
   },
